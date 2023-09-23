@@ -1,0 +1,52 @@
+{
+    "manifest_version": 3,
+    "name": "Anti Phishing",
+    "version": "2.1",
+    "description": "Issues a warning when certain websites are accessed. The application is an anti-phishing extension, checking whether the accessed site is on a blacklist or not",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "storage"
+    ],
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["./js/content.js"]
+    }],
+    "action": {
+      "default_popup": "popup.html",
+      "browser_style": true,
+      "default_icon": {
+        "16": "./images/icons/16x.png",
+        "32": "./images/icons/32x.png",
+        "48": "./images/icons/48x.png",
+        "64": "./images/icons/64x.png",
+        "128": "./images/icons/128x.png",
+        "256": "./images/icons/256x.png"
+      }
+    },
+    "icons": {
+        "16": "./images/icons/16x.png",
+        "32": "./images/icons/32x.png",
+        "48": "./images/icons/48x.png",
+        "64": "./images/icons/64x.png",
+        "128": "./images/icons/128x.png",
+        "256": "./images/icons/256x.png"
+    },
+    "web_accessible_resources": [
+      {
+        "resources": [
+            "./images/icons/16x.png",
+            "./images/icons/32x.png",
+            "./images/icons/48x.png",
+            "./images/icons/64x.png",
+            "./images/icons/128x.png",
+            "./images/icons/256x.png",
+            "./images/background/300x300px.jpg",
+            "/images/icons/fire.png"
+
+        ],
+        "matches": ["<all_urls>"]
+      }
+    ]  
+}
+  
