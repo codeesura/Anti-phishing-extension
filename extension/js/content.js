@@ -152,7 +152,7 @@ function createWarningDiv() {
             <div style="font-size: 1.2em; color: white;">Warning! It is recommended not to enter this website.</div>
             <div style="font-size: 0.7em; color: #ffb61c;">If you connect your wallet and give a signature or approval, you will lose your funds!!</div>
         </div>
-        <img src="${chrome.runtime.getURL("./images/icons/256xblue.png")}" style="position: absolute; top: 20px; left: 20px;">
+        <img src="${chrome.runtime.getURL("./images/icons/backlogo.png")}" style="position: absolute; top: 20px; left: 20px;">
     `;
 
     return warningDiv;

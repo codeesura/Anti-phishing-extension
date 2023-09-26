@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Anti Phishing",
     "version": "2.1",
-    "description": "Issues a warning when certain websites are accessed. The application is an anti-phishing extension, checking whether the accessed site is on a blacklist or not",
+    "description": "Warns when accessing certain sites; an anti-phishing extension checking if the site is blacklisted",
     "permissions": [
       "tabs",
       "activeTab",
@@ -42,7 +42,8 @@
             "./images/icons/128x.png",
             "./images/icons/256x.png",
             "./images/background/300x300px.jpg",
-            "/images/icons/fire.png"
+            "/images/icons/fire.png",
+            "/images/icons/backlogo.png"
 
         ],
         "matches": ["<all_urls>"]
