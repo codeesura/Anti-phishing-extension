@@ -1,10 +1,10 @@
 [
-    "dapp-fixtrade.netlify.app",
-    "dapp-networks.netlify.app",
-    "dapp-resolver.netlify.app",
-    "dapp-security.netlify.app",
-    "dappconnectwallet.web.app",
-    "dappsnodaltor.netlify.app",
-    "dappsprotocol.netlify.app",
-    "dappwalletfix.netlify.app"
+  "dapp-fixtrade.netlify.app",
+  "dapp-networks.netlify.app",
+  "dapp-resolver.netlify.app",
+  "dapp-security.netlify.app",
+  "dappconnectwallet.web.app",
+  "dappsnodaltor.netlify.app",
+  "dappsprotocol.netlify.app",
+  "dappwalletfix.netlify.app"
 ]

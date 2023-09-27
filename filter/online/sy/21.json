@@ -1,6 +1,6 @@
 [
-    "sync-validator.online",
-    "syncdappserver.online",
-    "syncdappwallet.online",
-    "syncsdappsbase.online"
+  "sync-validator.online",
+  "syncdappserver.online",
+  "syncdappwallet.online",
+  "syncsdappsbase.online"
 ]

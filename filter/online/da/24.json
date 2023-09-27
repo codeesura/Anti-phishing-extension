@@ -1,12 +1,12 @@
 [
-    "dappnodevalidator.online",
-    "dappresynchronize.online",
-    "dapps-maintenance.online",
-    "dappsmulticonnect.online",
-    "dappssupportsdesk.online",
-    "dappssynchronizer.online",
-    "dappstokenconnect.online",
-    "dappstoolsconnect.online",
-    "dappsynchronizers.online",
-    "dappvalidatenodes.online"
+  "dappnodevalidator.online",
+  "dappresynchronize.online",
+  "dapps-maintenance.online",
+  "dappsmulticonnect.online",
+  "dappssupportsdesk.online",
+  "dappssynchronizer.online",
+  "dappstokenconnect.online",
+  "dappstoolsconnect.online",
+  "dappsynchronizers.online",
+  "dappvalidatenodes.online"
 ]

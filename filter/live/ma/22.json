@@ -1,10 +1,10 @@
 [
-    "maindapprectifier.live",
-    "mainmobilerectify.live",
-    "mainnetblockchain.live",
-    "mainnetconnection.live",
-    "mainsystemrectify.live",
-    "mainsystemresolve.live",
-    "mainsystemrestore.live",
-    "mantanetworktoken.live"
+  "maindapprectifier.live",
+  "mainmobilerectify.live",
+  "mainnetblockchain.live",
+  "mainnetconnection.live",
+  "mainsystemrectify.live",
+  "mainsystemresolve.live",
+  "mainsystemrestore.live",
+  "mantanetworktoken.live"
 ]

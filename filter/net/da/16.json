@@ -1,12 +1,12 @@
 [
-    "daovalidator.net",
-    "dapp-mainnet.net",
-    "dapps-access.net",
-    "dapps-linker.net",
-    "dapps-tolink.net",
-    "dappsconfirm.net",
-    "dappsconnect.net",
-    "dappsendorse.net",
-    "dappssupport.net",
-    "databasesync.net"
+  "daovalidator.net",
+  "dapp-mainnet.net",
+  "dapps-access.net",
+  "dapps-linker.net",
+  "dapps-tolink.net",
+  "dappsconfirm.net",
+  "dappsconnect.net",
+  "dappsendorse.net",
+  "dappssupport.net",
+  "databasesync.net"
 ]

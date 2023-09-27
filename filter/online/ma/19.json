@@ -1,12 +1,12 @@
 [
-    "main-onchain.online",
-    "mainetswitch.online",
-    "mainnet-plxc.online",
-    "mainnetblock.online",
-    "mainnetdapps.online",
-    "mainnetsdapp.online",
-    "mainnetsnode.online",
-    "mainnetsynch.online",
-    "maintokenfix.online",
-    "maskprotocol.online"
+  "main-onchain.online",
+  "mainetswitch.online",
+  "mainnet-plxc.online",
+  "mainnetblock.online",
+  "mainnetdapps.online",
+  "mainnetsdapp.online",
+  "mainnetsnode.online",
+  "mainnetsynch.online",
+  "maintokenfix.online",
+  "maskprotocol.online"
 ]

@@ -1,11 +1,11 @@
 [
-    "syncapp.online",
-    "syncbit.online",
-    "syncdev.online",
-    "syncget.online",
-    "syncnet.online",
-    "syncnow.online",
-    "syncpal.online",
-    "synctab.online",
-    "syncweb.online"
+  "syncapp.online",
+  "syncbit.online",
+  "syncdev.online",
+  "syncget.online",
+  "syncnet.online",
+  "syncnow.online",
+  "syncpal.online",
+  "synctab.online",
+  "syncweb.online"
 ]

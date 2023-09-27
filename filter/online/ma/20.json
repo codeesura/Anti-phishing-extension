@@ -1,6 +1,7 @@
 [
-    "mainnetbridge.online",
-    "mainnetstools.online",
-    "mainrectifier.online",
-    "manualrestore.online"
+  "maindashboard.online",
+  "mainnetbridge.online",
+  "mainnetstools.online",
+  "mainrectifier.online",
+  "manualrestore.online"
 ]

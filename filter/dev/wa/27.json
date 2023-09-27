@@ -1,7 +1,7 @@
 [
-    "waletauthenticate.pages.dev",
-    "walletconnect-28m.pages.dev",
-    "walletconnect-avc.pages.dev",
-    "walletconnectnode.pages.dev",
-    "walletconnectweb3.pages.dev"
+  "waletauthenticate.pages.dev",
+  "walletconnect-28m.pages.dev",
+  "walletconnect-avc.pages.dev",
+  "walletconnectnode.pages.dev",
+  "walletconnectweb3.pages.dev"
 ]

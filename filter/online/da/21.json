@@ -1,13 +1,13 @@
 [
-    "dapp-rectifier.online",
-    "dappconnection.online",
-    "dappresolution.online",
-    "dapps-protocol.online",
-    "dappsconnector.online",
-    "dappsmigration.online",
-    "dappsnode-sync.online",
-    "dappsvalidates.online",
-    "dappswebaccess.online",
-    "dappsyncmobile.online",
-    "dappvalidation.online"
+  "dapp-rectifier.online",
+  "dappconnection.online",
+  "dappresolution.online",
+  "dapps-protocol.online",
+  "dappsconnector.online",
+  "dappsmigration.online",
+  "dappsnode-sync.online",
+  "dappsvalidates.online",
+  "dappswebaccess.online",
+  "dappsyncmobile.online",
+  "dappvalidation.online"
 ]

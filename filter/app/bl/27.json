@@ -1,6 +1,6 @@
 [
-    "blockchain-activate.web.app",
-    "blockchain-fixnodes.web.app",
-    "blockchain-sync.netlify.app",
-    "blockchainfixer.netlify.app"
+  "blockchain-activate.web.app",
+  "blockchain-fixnodes.web.app",
+  "blockchain-sync.netlify.app",
+  "blockchainfixer.netlify.app"
 ]

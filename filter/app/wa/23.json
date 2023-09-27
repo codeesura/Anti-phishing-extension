@@ -1,9 +1,9 @@
 [
-    "wallet-auth-fix.web.app",
-    "walletconnectonline.app",
-    "walletdappssync.web.app",
-    "walletsconnects.web.app",
-    "walletsdemo.netlify.app",
-    "walletsyncchain.web.app",
-    "walluserconnect.web.app"
+  "wallet-auth-fix.web.app",
+  "walletconnectonline.app",
+  "walletdappssync.web.app",
+  "walletsconnects.web.app",
+  "walletsdemo.netlify.app",
+  "walletsyncchain.web.app",
+  "walluserconnect.web.app"
 ]

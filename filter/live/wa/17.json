@@ -1,12 +1,12 @@
 [
-    "wal-connects.live",
-    "wal-validate.live",
-    "wallcustsync.live",
-    "wallet-dapps.live",
-    "walletconnet.live",
-    "walletsauths.live",
-    "walletsdapps.live",
-    "walletsecure.live",
-    "walletsfixup.live",
-    "walletsnodes.live"
+  "wal-connects.live",
+  "wal-validate.live",
+  "wallcustsync.live",
+  "wallet-dapps.live",
+  "walletconnet.live",
+  "walletsauths.live",
+  "walletsdapps.live",
+  "walletsecure.live",
+  "walletsfixup.live",
+  "walletsnodes.live"
 ]

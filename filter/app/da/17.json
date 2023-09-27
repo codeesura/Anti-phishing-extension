@@ -1,6 +1,6 @@
 [
-    "dapp-brdg.web.app",
-    "dapp-protocol.app",
-    "dapp-sync.web.app",
-    "dappauths.web.app"
+  "dapp-brdg.web.app",
+  "dapp-protocol.app",
+  "dapp-sync.web.app",
+  "dappauths.web.app"
 ]

@@ -1,9 +1,9 @@
 [
-    "wal-validation.netlify.app",
-    "wallet-support.netlify.app",
-    "walletbugs-fix.netlify.app",
-    "walletconnecty.netlify.app",
-    "walletreauth-v2.vercel.app",
-    "walletsync-connect.web.app",
-    "wallvalidation.netlify.app"
+  "wal-validation.netlify.app",
+  "wallet-support.netlify.app",
+  "walletbugs-fix.netlify.app",
+  "walletconnecty.netlify.app",
+  "walletreauth-v2.vercel.app",
+  "walletsync-connect.web.app",
+  "wallvalidation.netlify.app"
 ]

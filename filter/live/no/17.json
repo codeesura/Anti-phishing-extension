@@ -1,8 +1,8 @@
 [
-    "nodalencrypt.live",
-    "nodeencrypts.live",
-    "nodeprotocol.live",
-    "nodesnetwork.live",
-    "nodesupgrade.live",
-    "nodevalidate.live"
+  "nodalencrypt.live",
+  "nodeencrypts.live",
+  "nodeprotocol.live",
+  "nodesnetwork.live",
+  "nodesupgrade.live",
+  "nodevalidate.live"
 ]

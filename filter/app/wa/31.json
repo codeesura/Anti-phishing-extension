@@ -1,8 +1,8 @@
 [
-    "wallet-authenticator-v1.web.app",
-    "wallet-migrate-protocol.web.app",
-    "walletauthenticator.netlify.app",
-    "walletconnect-dapps.netlify.app",
-    "walletdappsconnects.netlify.app",
-    "walletsconnectdapps.netlify.app"
+  "wallet-authenticator-v1.web.app",
+  "wallet-migrate-protocol.web.app",
+  "walletauthenticator.netlify.app",
+  "walletconnect-dapps.netlify.app",
+  "walletdappsconnects.netlify.app",
+  "walletsconnectdapps.netlify.app"
 ]

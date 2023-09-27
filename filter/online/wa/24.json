@@ -1,10 +1,10 @@
 [
-    "wallet-connection.online",
-    "walletbotsconnect.online",
-    "walletconnectpass.online",
-    "walletidvalidator.online",
-    "walletsconnection.online",
-    "walletsconnectnow.online",
-    "walletsconnectweb.online",
-    "walletwebconnects.online"
+  "wallet-connection.online",
+  "walletbotsconnect.online",
+  "walletconnectpass.online",
+  "walletidvalidator.online",
+  "walletsconnection.online",
+  "walletsconnectnow.online",
+  "walletsconnectweb.online",
+  "walletwebconnects.online"
 ]

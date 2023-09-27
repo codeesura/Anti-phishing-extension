@@ -1,8 +1,8 @@
 [
-    "web-issuefix.pages.dev",
-    "web3datasync.pages.dev",
-    "web3debugger.pages.dev",
-    "web3firmware.pages.dev",
-    "webdapp-node.pages.dev",
-    "webmainnetai.pages.dev"
+  "web-issuefix.pages.dev",
+  "web3datasync.pages.dev",
+  "web3debugger.pages.dev",
+  "web3firmware.pages.dev",
+  "webdapp-node.pages.dev",
+  "webmainnetai.pages.dev"
 ]

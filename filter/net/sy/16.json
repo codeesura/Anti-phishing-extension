@@ -1,8 +1,8 @@
 [
-    "sync-mainnet.net",
-    "syncalldapps.net",
-    "syncdatabase.net",
-    "synchconnect.net",
-    "syncprotocol.net",
-    "syncvalidate.net"
+  "sync-mainnet.net",
+  "syncalldapps.net",
+  "syncdatabase.net",
+  "synchconnect.net",
+  "syncprotocol.net",
+  "syncvalidate.net"
 ]
