@@ -1,0 +1,41 @@
+name: Rust Filter and Push
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+
+    - name: Setup Rust
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
+        override: true
+
+    - name: Build
+      run: cargo build --release
+
+    - name: Run
+      run: cargo run
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "codeesura@gmail.com"
+        git config --local user.name "codeesura"
+        git add .
+        git commit -m "Add-remove filtered domains" || echo "No changes to commit"
+        git push
