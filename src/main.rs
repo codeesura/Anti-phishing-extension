@@ -14,12 +14,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let base_path = Path::new("filter");
 
+    let mut all_domains = Vec::new();
+
     if let Value::Object(map) = domains {
         if let Some(Value::Array(domains)) = map.get("deny") {
             let mut domain_map: HashMap<String, Vec<String>> = HashMap::new();
 
             for domain in domains {
                 if let Value::String(domain) = domain {
+                    all_domains.push(domain.to_string());
+
                     let domain_parts: Vec<&str> = domain.split('.').collect();
                     let domain_type = domain_parts.last().unwrap_or(&"unknown");
                     let first_two_letters = domain_parts[0].chars().take(2).collect::<String>().to_lowercase();
@@ -45,6 +49,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             }
         }
     }
+
+    let all_domains_path = Path::new("phishing-sites-list.json");
+    let pretty_json = serde_json::to_vec_pretty(&all_domains)?;
+    let mut file = File::create(all_domains_path)?;
+    file.write_all(&pretty_json)?;
 
     Ok(())
 }
