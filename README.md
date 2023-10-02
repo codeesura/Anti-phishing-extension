@@ -30,7 +30,7 @@ This repository contains a Google Chrome Extension developed to protect users fr
 
 ### From Google Web Store
 
-1. You can download and install the Extension from the Google Web Store [Not yet](Link).
+1. You can download and install the Extension from the Google Web Store [Anti Phishing](https://chrome.google.com/webstore/detail/anti-phishing/npipcajipdkafdkellochifbfmppdalo).
 
 ### Manually
 
