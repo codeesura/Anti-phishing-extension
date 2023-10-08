@@ -3,5 +3,6 @@
   "syncchain.netlify.app",
   "syncdapps.netlify.app",
   "syncvalid.netlify.app",
+  "syncvalidator.web.app",
   "syncwalet.netlify.app"
 ]
