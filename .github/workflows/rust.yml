@@ -2,7 +2,7 @@ name: Rust Filter and Push
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */4 * * *'
 
 jobs:
   build:
@@ -26,10 +26,15 @@ jobs:
     - name: Run
       run: cargo run
 
+    - name: Calculate Domain Changes
+      run: echo "DOMAIN_CHANGES=$(git diff --shortstat phishing-sites-list.json | awk '{print $4}')" >> $GITHUB_ENV
+
     - name: Commit and Push
       run: |
-        git config --local user.email "codeesura@gmail.com"
-        git config --local user.name "codeesura"
-        git add .
-        git commit -m "Add-remove filtered domains" || echo "No changes to commit"
-        git push
+        if [[ $DOMAIN_CHANGES -gt 50 ]]; then
+          git config --local user.email "codeesura@gmail.com"
+          git config --local user.name "codeesura"
+          git add .
+          git commit -m "Add-remove filtered domains" || echo "No changes to commit"
+          git push
+        fi
