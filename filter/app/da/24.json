@@ -1,5 +1,6 @@
 [
   "dapp-rectify.netlify.app",
+  "dapp-validate.vercel.app",
   "dapp-walletrefix.web.app",
   "dapprotocols.netlify.app",
   "dapps-secure.netlify.app",
@@ -7,5 +8,6 @@
   "dapps-support.vercel.app",
   "dapps-synccs.netlify.app",
   "dapps-walletsync.web.app",
+  "dappsecurity.netlify.app",
   "dappsfortune.netlify.app"
 ]
