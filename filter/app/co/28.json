@@ -2,5 +2,6 @@
   "coinmainnetinterface.web.app",
   "collablandconnect.vercel.app",
   "collablandwallet.netlify.app",
-  "collabs-verifier.netlify.app"
+  "collabs-verifier.netlify.app",
+  "connectlivedapps.netlify.app"
 ]
