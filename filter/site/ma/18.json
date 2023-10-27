@@ -2,5 +2,6 @@
   "mainnetbridge.site",
   "mainnetserver.site",
   "mainnetsynces.site",
-  "mainnetsynchs.site"
+  "mainnetsynchs.site",
+  "manualrestore.site"
 ]
