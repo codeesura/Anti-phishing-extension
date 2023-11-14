@@ -1,5 +1,6 @@
 [
   "fix-nodebug.pages.dev",
   "fixaccounts.pages.dev",
+  "fixsyncdapp.pages.dev",
   "fixweb3bugs.pages.dev"
 ]
