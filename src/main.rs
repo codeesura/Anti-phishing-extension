@@ -1,4 +1,3 @@
-use reqwest;
 use serde_json::Value;
 use std::collections::HashMap;
 use std::fs::{create_dir_all, File};
@@ -26,13 +25,19 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
                     let domain_parts: Vec<&str> = domain.split('.').collect();
                     let domain_type = domain_parts.last().unwrap_or(&"unknown");
-                    let first_two_letters = domain_parts[0].chars().take(2).collect::<String>().to_lowercase();
+                    let first_two_letters = domain_parts[0]
+                        .chars()
+                        .take(2)
+                        .collect::<String>()
+                        .to_lowercase();
 
-                    let key = format!("{}/{}/{}.json", domain_type, first_two_letters, domain.len());
-                    domain_map
-                        .entry(key)
-                        .or_insert_with(Vec::new)
-                        .push(domain.to_string());
+                    let key = format!(
+                        "{}/{}/{}.json",
+                        domain_type,
+                        first_two_letters,
+                        domain.len()
+                    );
+                    domain_map.entry(key).or_default().push(domain.to_string());
                 }
             }
 
