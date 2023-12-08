@@ -3,5 +3,7 @@
   "collablandconnect.vercel.app",
   "collablandwallet.netlify.app",
   "collabs-verifier.netlify.app",
+  "connection-collab.vercel.app",
+  "connection-verify.vercel.app",
   "connectlivedapps.netlify.app"
 ]

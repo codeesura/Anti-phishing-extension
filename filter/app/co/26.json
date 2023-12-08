@@ -2,6 +2,8 @@
   "coin-solutions.netlify.app",
   "collabland-join.vercel.app",
   "collabland-user.vercel.app",
+  "collabs-connect.vercel.app",
   "connect-collab.netlify.app",
-  "connect-collabs.vercel.app"
+  "connect-collabs.vercel.app",
+  "connects-collab.vercel.app"
 ]

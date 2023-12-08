@@ -1,6 +1,8 @@
 [
   "coinwalletsolution.vercel.app",
   "collabland-connect.vercel.app",
+  "collabs-connection.vercel.app",
   "connect-interface.netlify.app",
-  "connectdappsminter.vercel.app"
+  "connectdappsminter.vercel.app",
+  "connection-collabs.vercel.app"
 ]
