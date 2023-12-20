@@ -1,5 +1,6 @@
 [
   "wallet-nodefix.web.app",
+  "wallet-rectify.web.app",
   "walletconnect-dapp.app",
   "walletdapp.netlify.app",
   "walletfix-auth.web.app",
