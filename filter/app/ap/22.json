@@ -1,4 +1,5 @@
 [
   "apiv3nodes.netlify.app",
-  "appon-sync.netlify.app"
+  "appon-sync.netlify.app",
+  "apygate-rpc.vercel.app"
 ]

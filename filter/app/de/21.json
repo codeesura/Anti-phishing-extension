@@ -1,5 +1,6 @@
 [
   "defi-validate.web.app",
   "defidapps-net.web.app",
-  "devsolver.netlify.app"
+  "devsolver.netlify.app",
+  "dex-migration.web.app"
 ]
