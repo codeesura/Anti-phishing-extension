@@ -1,4 +1,5 @@
 [
   "registers-manta.network",
-  "restoreallnodes.network"
+  "restoreallnodes.network",
+  "revchainconnect.network"
 ]
