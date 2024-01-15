@@ -2,5 +2,6 @@
   "auth-config.pages.dev",
   "authconnect.pages.dev",
   "authrectify.pages.dev",
+  "authresolve.pages.dev",
   "authwebnets.pages.dev"
 ]
