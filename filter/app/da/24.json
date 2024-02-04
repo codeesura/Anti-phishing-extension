@@ -12,5 +12,6 @@
   "dappsconnects.vercel.app",
   "dappsecurity.netlify.app",
   "dappsfortune.netlify.app",
-  "dappswalletnodes.web.app"
+  "dappswalletnodes.web.app",
+  "dappswalletsnode.web.app"
 ]
