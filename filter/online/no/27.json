@@ -1,5 +1,6 @@
 [
   "nodeinterface.flowex.online",
   "nodesprotocolrestore.online",
-  "nodifyconnectivities.online"
+  "nodifyconnectivities.online",
+  "noncustodialresolver.online"
 ]
