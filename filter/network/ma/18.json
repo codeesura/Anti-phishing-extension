@@ -1,5 +1,6 @@
 [
   "manta-apps.network",
+  "manta-coin.network",
   "mantachain.network",
   "mantaclaim.network"
 ]
