@@ -1,5 +1,6 @@
 [
   "nodeconfig.live",
   "nodesdebug.live",
-  "nodewallet.live"
+  "nodewallet.live",
+  "novawallet.live"
 ]
