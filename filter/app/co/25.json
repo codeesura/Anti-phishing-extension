@@ -1,4 +1,5 @@
 [
+  "coin-multiresolve.web.app",
   "collabs-verify.vercel.app",
   "connect-verify.vercel.app"
 ]

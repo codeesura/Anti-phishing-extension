@@ -3,6 +3,7 @@
   "dappsecuredtools.netlify.app",
   "dappsliveconnect.netlify.app",
   "dappsreauthenticator.web.app",
+  "dapptest-mindnetwork.web.app",
   "dappvalidate-plum.vercel.app",
   "datarectification.vercel.app"
 ]
