@@ -31,7 +31,7 @@ jobs:
 
     - name: Commit and Push
       run: |
-        if [[ $DOMAIN_CHANGES -gt 50 ]]; then
+        if [[ $DOMAIN_CHANGES -gt 5 ]]; then
           git config --local user.email "codeesura@gmail.com"
           git config --local user.name "codeesura"
           git add .
