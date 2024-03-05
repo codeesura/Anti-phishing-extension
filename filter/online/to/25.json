@@ -1,5 +1,6 @@
 [
   "tokenauthenticator.online",
   "tokendappconnector.online",
+  "tokenguideexpchain.online",
   "tokenrequestreward.online"
 ]
