@@ -1,3 +1,5 @@
 [
-  "chain-dapp.pages.dev"
+  "chain-base.pages.dev",
+  "chain-dapp.pages.dev",
+  "chain-node.pages.dev"
 ]
