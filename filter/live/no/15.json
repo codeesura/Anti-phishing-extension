@@ -1,6 +1,7 @@
 [
   "nodeconfig.live",
   "nodesdebug.live",
+  "nodespoint.live",
   "nodewallet.live",
   "novawallet.live"
 ]
