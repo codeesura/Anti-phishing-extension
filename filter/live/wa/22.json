@@ -6,5 +6,6 @@
   "walletsynchronapp.live",
   "walletvallidation.live",
   "walletwebsconnect.live",
-  "wappconnectoption.live"
+  "wappconnectoption.live",
+  "wappdirectencrypt.live"
 ]
