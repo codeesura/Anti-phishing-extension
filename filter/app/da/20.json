@@ -1,5 +1,6 @@
 [
   "dapp-station.web.app",
   "dappstations.web.app",
+  "dappwebinterface.app",
   "dapsyncs.netlify.app"
 ]
