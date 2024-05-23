@@ -9,5 +9,6 @@
   "dapps-website.web.app",
   "dappsnetworks.web.app",
   "dappspaces.vercel.app",
-  "dappssync.netlify.app"
+  "dappssync.netlify.app",
+  "dappwallet.vercel.app"
 ]
