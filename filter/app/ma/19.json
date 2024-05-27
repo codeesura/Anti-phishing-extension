@@ -1,5 +1,6 @@
 [
   "mainnetdapp.web.app",
+  "mainnetnode.web.app",
   "mainnets.vercel.app",
   "mask-reward.web.app"
 ]
