@@ -1,6 +1,7 @@
 [
   "syncdpp.web.app",
   "syncpod.web.app",
+  "syncwallets.app",
   "syndpps.web.app",
   "synspad.web.app"
 ]
