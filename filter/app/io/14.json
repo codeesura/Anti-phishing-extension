@@ -1,5 +1,6 @@
 [
   "io-account.app",
   "io-connect.app",
-  "io-updated.app"
+  "io-updated.app",
+  "ionicmoney.app"
 ]
