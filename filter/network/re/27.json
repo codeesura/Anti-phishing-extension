@@ -1,6 +1,8 @@
 [
   "realio-distribution.network",
+  "register-lineabuild.network",
   "registrar-layerzero.network",
+  "registration-hashai.network",
   "renewmanta-paradigm.network",
   "renewparadigm-manta.network"
 ]
