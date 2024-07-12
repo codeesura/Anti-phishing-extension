@@ -1,6 +1,7 @@
 [
   "dao-mantanetwork.app",
   "dapp-station.web.app",
+  "dappnode-web.web.app",
   "dappstations.web.app",
   "dappwebinterface.app",
   "dapsyncs.netlify.app"
