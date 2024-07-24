@@ -4,5 +4,7 @@
   "walletbugsfix.pages.dev",
   "walletencrypt.pages.dev",
   "walletnetwork.pages.dev",
-  "walletsconect.pages.dev"
+  "walletrectify.pages.dev",
+  "walletsconect.pages.dev",
+  "wappkcstrings.pages.dev"
 ]
