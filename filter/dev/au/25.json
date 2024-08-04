@@ -1,6 +1,7 @@
 [
   "aurorawhitelist.pages.dev",
   "auth-web3-modal.pages.dev",
+  "authdappresolve.pages.dev",
   "autodebugmodulerpcfix.dev",
   "automigratesync.pages.dev"
 ]
