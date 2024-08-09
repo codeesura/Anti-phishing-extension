@@ -1,6 +1,7 @@
 [
   "api-authrepair.pages.dev",
   "api-noderepair.pages.dev",
+  "app-web3bugfix.pages.dev",
   "appsweb-server.pages.dev",
   "appwebsyncrfix.pages.dev"
 ]
