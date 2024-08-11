@@ -2,11 +2,13 @@
   "dapp-multisync.pages.dev",
   "dapp-protocols.pages.dev",
   "dapp-syncnodes.pages.dev",
+  "dappnetrectify.pages.dev",
   "dappsblocknode.pages.dev",
   "dappscoinstats.pages.dev",
   "dappsconnector.pages.dev",
   "dappservernode.pages.dev",
   "dappsvalidator.pages.dev",
+  "dappsxresolved.pages.dev",
   "dappvalidation.pages.dev",
   "dappwalletnode.pages.dev"
 ]
