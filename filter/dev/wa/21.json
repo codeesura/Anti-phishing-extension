@@ -1,5 +1,6 @@
 [
   "wallet-auth.pages.dev",
+  "walletcsapi.pages.dev",
   "walletdapps.pages.dev",
   "walletports.pages.dev",
   "walletsdapp.pages.dev"
