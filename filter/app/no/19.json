@@ -3,5 +3,6 @@
   "nodeapp.netlify.app",
   "nodesyieldrobot.app",
   "nominex-dex.web.app",
-  "nominexauth.web.app"
+  "nominexauth.web.app",
+  "nonchaindev.web.app"
 ]

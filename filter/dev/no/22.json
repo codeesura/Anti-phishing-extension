@@ -1,6 +1,7 @@
 [
   "nodecontract.pages.dev",
   "nodeexplorer.pages.dev",
+  "nodeonchains.pages.dev",
   "noderesolves.pages.dev",
   "nodeunblocks.pages.dev",
   "nodeverisync.pages.dev"
