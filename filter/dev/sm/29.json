@@ -1,8 +1,10 @@
 [
   "smart-walletconnect.pages.dev",
+  "smartchainmulticoin.pages.dev",
   "smartcoin-walletapp.pages.dev",
   "smartdexdecentraapp.pages.dev",
   "smartprotocolchains.pages.dev",
   "smartreviseconnects.pages.dev",
-  "smartreviseprotocol.pages.dev"
+  "smartreviseprotocol.pages.dev",
+  "smartwalletwebchain.pages.dev"
 ]

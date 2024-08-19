@@ -1,6 +1,9 @@
 [
   "smartdappresolve.pages.dev",
   "smartdecentraapp.pages.dev",
+  "smartpracelscync.pages.dev",
   "smartresolvenode.pages.dev",
-  "smartrevisedapps.pages.dev"
+  "smartrevisedapps.pages.dev",
+  "smartsecuredauth.pages.dev",
+  "smartsolutionapp.pages.dev"
 ]
