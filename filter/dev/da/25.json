@@ -1,6 +1,7 @@
 [
   "dapp-multichain.pages.dev",
   "dapp-resolution.pages.dev",
+  "dapp-synrectify.pages.dev",
   "dappconnectauth.pages.dev",
   "dappfix-mainnet.pages.dev",
   "dappmultiwallet.pages.dev",
@@ -8,6 +9,7 @@
   "dappscentralfix.pages.dev",
   "dappsconnectapp.pages.dev",
   "dappsfixcentral.pages.dev",
+  "dappsnetresolve.pages.dev",
   "dappsvalidators.pages.dev",
   "dappsyncrectify.pages.dev",
   "dappwebresolver.pages.dev"
