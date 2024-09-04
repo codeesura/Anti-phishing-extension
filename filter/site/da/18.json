@@ -2,5 +2,6 @@
   "dapps-restore.site",
   "dappsfixerweb.site",
   "dappsprotocol.site",
-  "dappsvalidate.site"
+  "dappsvalidate.site",
+  "dappvalidator.site"
 ]
