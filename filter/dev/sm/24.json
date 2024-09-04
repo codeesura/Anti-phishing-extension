@@ -1,10 +1,12 @@
 [
   "smainchain-1d1.pages.dev",
+  "smartauthchain.pages.dev",
   "smartindex-app.pages.dev",
   "smartlfixdapps.pages.dev",
   "smartliquidify.pages.dev",
   "smartnoncebase.pages.dev",
   "smartreviseapp.pages.dev",
   "smartreviseweb.pages.dev",
-  "smartverse-app.pages.dev"
+  "smartverse-app.pages.dev",
+  "smartwebwallet.pages.dev"
 ]
