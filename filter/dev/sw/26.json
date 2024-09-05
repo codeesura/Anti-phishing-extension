@@ -2,5 +2,6 @@
   "swiftdapprotocol.pages.dev",
   "swiftmigrationprotocol.dev",
   "swiftmultichains.pages.dev",
-  "swiftsyncresolve.pages.dev"
+  "swiftsyncresolve.pages.dev",
+  "swiftwalletsauth.pages.dev"
 ]
