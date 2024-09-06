@@ -1,6 +1,7 @@
 [
   "nodeconnectdapp.pages.dev",
   "nodecorrectsync.pages.dev",
+  "nodesautorepair.pages.dev",
   "nodescriptinput.pages.dev",
   "nodesvalidation.pages.dev"
 ]
