@@ -1,6 +1,7 @@
 [
   "mainnet-pulsechain.app",
   "mainnet-rpc.vercel.app",
+  "mainnetnode.vercel.app",
   "mainnetsync.vercel.app",
   "manta-networks.web.app"
 ]
