@@ -1,4 +1,5 @@
 [
+  "claim-eigen.network",
   "claim-flare.network",
   "claim-manta.network",
   "claim-shido.network"
