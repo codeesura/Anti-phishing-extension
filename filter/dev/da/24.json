@@ -2,6 +2,7 @@
   "dapp-multisync.pages.dev",
   "dapp-protocols.pages.dev",
   "dapp-syncnodes.pages.dev",
+  "dappattestiony.pages.dev",
   "dappdashboards.pages.dev",
   "dappdefimodule.pages.dev",
   "dappfixwebsite.pages.dev",
@@ -15,5 +16,6 @@
   "dappsvalidator.pages.dev",
   "dappsxresolved.pages.dev",
   "dappvalidation.pages.dev",
-  "dappwalletnode.pages.dev"
+  "dappwalletnode.pages.dev",
+  "dataspheretech.pages.dev"
 ]
