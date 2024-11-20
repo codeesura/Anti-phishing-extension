@@ -1,4 +1,5 @@
 [
+  "coinchange.cc",
   "collabandd.cc",
   "collablamd.cc",
   "collablanp.cc",
