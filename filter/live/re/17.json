@@ -1,6 +1,8 @@
 [
   "receiveclaim.live",
+  "receivequota.live",
   "rectifytrust.live",
+  "resolvepanel.live",
   "resourcenode.live",
   "rewardportal.live"
 ]
