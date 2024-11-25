@@ -2,5 +2,6 @@
   "sync-module.pages.dev",
   "syncappauth.pages.dev",
   "syncfulldap.pages.dev",
-  "syncnetwork.pages.dev"
+  "syncnetwork.pages.dev",
+  "syncpanel-resolve.dev"
 ]
