@@ -3,5 +3,6 @@
   "registration-manta.network",
   "registration-stark.network",
   "renewparadignmanta.network",
-  "resolutionendpoint.network"
+  "resolutionendpoint.network",
+  "rewards.blockcasts.network"
 ]
