@@ -1,5 +1,6 @@
 [
   "coin-blockchaindappsmartweb.web.app",
   "collabland-verify-assets.vercel.app",
+  "connect-fastmint-wallet.netlify.app",
   "connect-verify-securitys.vercel.app"
 ]
