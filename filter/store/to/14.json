@@ -1,4 +1,5 @@
 [
   "tokenapp.store",
-  "tokenhub.store"
+  "tokenhub.store",
+  "tonplace.store"
 ]
