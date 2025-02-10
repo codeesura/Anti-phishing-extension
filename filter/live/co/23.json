@@ -13,5 +13,7 @@
   "connectwalletdapps.live",
   "connectwalletnodes.live",
   "consensus-poschain.live",
-  "correction-network.live"
+  "correction-network.live",
+  "cortexholdersclaim.live",
+  "cortexrewardsclaim.live"
 ]
