@@ -63,7 +63,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
                 if let Some(parent) = full_path.parent() {
                     if !parent.exists() {
-                        println!("Creating directory: {}", parent.display());
                         create_dir_all(&parent)?;
                     }
                 }
@@ -71,7 +70,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 let pretty_json = serde_json::to_vec_pretty(domain_list)?;
                 let mut file = File::create(&full_path)?;
                 file.write_all(&pretty_json)?;
-                println!("Created file: {}", full_path.display());
             }
         }
     }
