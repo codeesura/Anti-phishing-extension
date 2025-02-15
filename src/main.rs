@@ -24,8 +24,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                     all_domains.push(domain.to_string());
 
                     let domain_parts: Vec<&str> = domain.split('.').collect();
-                    let domain_type = domain_parts.last().unwrap_or(&"unknown");
-                    let first_two_letters = domain_parts[0]
+
+                    let domain_type = domain_parts
+                        .last()
+                        .map(|s| s.trim_start_matches('/'))
+                        .filter(|s| !s.is_empty())
+                        .unwrap_or("unknown");
+
+                    let first_part = domain_parts
+                        .first()
+                        .map(|s| s.trim_start_matches('/'))
+                        .filter(|s| !s.is_empty())
+                        .unwrap_or("unknown");
+
+                    let first_two_letters = first_part
                         .chars()
                         .take(2)
                         .collect::<String>()
@@ -42,15 +54,24 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             }
 
             for (file_path, domain_list) in domain_map.iter() {
-                let dir_path = base_path.join(Path::new(file_path).parent().unwrap());
-                if !dir_path.exists() {
-                    create_dir_all(&dir_path)?;
+                let full_path = base_path.join(Path::new(file_path));
+
+                if !full_path.starts_with(base_path) {
+                    eprintln!("Skipping invalid path: {}", full_path.display());
+                    continue;
+                }
+
+                if let Some(parent) = full_path.parent() {
+                    if !parent.exists() {
+                        println!("Creating directory: {}", parent.display());
+                        create_dir_all(&parent)?;
+                    }
                 }
 
                 let pretty_json = serde_json::to_vec_pretty(domain_list)?;
-                let file_path = base_path.join(file_path);
-                let mut file = File::create(file_path)?;
+                let mut file = File::create(&full_path)?;
                 file.write_all(&pretty_json)?;
+                println!("Created file: {}", full_path.display());
             }
         }
     }
