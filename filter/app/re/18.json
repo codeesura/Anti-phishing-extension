@@ -3,5 +3,6 @@
   "register-manta.app",
   "renzoprotocois.app",
   "resolverhq.web.app",
-  "revoke-bedrock.app"
+  "revoke-bedrock.app",
+  "rewards-pendle.app"
 ]
