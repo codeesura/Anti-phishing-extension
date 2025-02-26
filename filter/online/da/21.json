@@ -6,6 +6,7 @@
   "dappsconnector.online",
   "dappsmigration.online",
   "dappsnode-sync.online",
+  "dappsresolvers.online",
   "dappsvalidates.online",
   "dappswebaccess.online",
   "dappsyncmobile.online",
