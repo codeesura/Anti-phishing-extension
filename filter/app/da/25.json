@@ -1,6 +1,7 @@
 [
   "dapp-crypto-dp.vercel.app",
   "dapp-fixtrade.netlify.app",
+  "dapp-launchpad.vercel.app",
   "dapp-networks.netlify.app",
   "dapp-resolver.netlify.app",
   "dapp-security.netlify.app",
