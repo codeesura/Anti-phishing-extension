@@ -1,3 +1,4 @@
 [
-  "dappconnection.cc"
+  "dappconnection.cc",
+  "dappstonsnodes.cc"
 ]
