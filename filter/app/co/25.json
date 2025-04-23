@@ -1,6 +1,7 @@
 [
   "coin-multiresolve.web.app",
   "coinbase-auth.netlify.app",
+  "coinswiftprotocol.web.app",
   "collabs-verify.vercel.app",
   "connect-verify.vercel.app"
 ]
