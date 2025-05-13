@@ -1,6 +1,7 @@
 [
   "dapps-integrate.app",
   "dappslog.vercel.app",
+  "dappsroutes.web.app",
   "dappsyn.netlify.app",
   "dappwalt.vercel.app",
   "dapsfix.netlify.app",
