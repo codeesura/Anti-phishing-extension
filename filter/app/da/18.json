@@ -1,6 +1,7 @@
 [
   "dapp-brdge.web.app",
   "dapp-chain.web.app",
+  "dappaccess.web.app",
   "dappfix.vercel.app",
   "dapponsync.web.app"
 ]
