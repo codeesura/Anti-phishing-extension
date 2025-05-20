@@ -1,4 +1,5 @@
 [
   "chaindrop.app",
+  "chainnetd.app",
   "chainsync.app"
 ]
