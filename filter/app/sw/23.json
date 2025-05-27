@@ -1,6 +1,7 @@
 [
   "swapconnect.netlify.app",
   "swapresolve.netlify.app",
+  "swift-toolchain.web.app",
   "swiftindexchain.web.app",
   "swiftresolve.vercel.app"
 ]
