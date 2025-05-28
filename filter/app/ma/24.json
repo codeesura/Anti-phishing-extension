@@ -1,5 +1,6 @@
 [
   "mainnet-validate.web.app",
   "mainnetfixhub.vercel.app",
+  "mainnetrevent.vercel.app",
   "mande-finance.vercel.app"
 ]
