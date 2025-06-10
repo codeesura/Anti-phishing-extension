@@ -1,4 +1,5 @@
 [
+  "dapps-debug.web.app",
   "dapps-integrate.app",
   "dappslog.vercel.app",
   "dappsroutes.web.app",
