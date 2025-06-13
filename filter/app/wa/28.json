@@ -1,5 +1,6 @@
 [
   "wallet-sync-omega.vercel.app",
+  "wallet-vallidator.vercel.app",
   "walletconnect-defiwallet.app",
   "walletconnect-direct.web.app",
   "walletconnect-v2.netlify.app",
