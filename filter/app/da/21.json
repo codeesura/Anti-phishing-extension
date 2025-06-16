@@ -5,6 +5,7 @@
   "dappconnectv2.web.app",
   "dappquery.netlify.app",
   "dappreader.static.app",
+  "dapps-browser.web.app",
   "dapps-sync.vercel.app",
   "dapps-website.web.app",
   "dappsnetworks.web.app",

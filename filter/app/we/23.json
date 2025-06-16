@@ -1,6 +1,7 @@
 [
   "web3service.netlify.app",
   "web3wallet-sync.web.app",
+  "web3wallets.netlify.app",
   "webconnects.netlify.app",
   "webnodedapp.netlify.app",
   "webtoolshub.netlify.app"
