@@ -1,7 +1,7 @@
 [
-  "claims-acs.top",
   "claim-carv.top",
   "claim-maga.top",
   "claim-shib.top",
-  "claimaergo.top"
+  "claimaergo.top",
+  "claims-acs.top"
 ]
