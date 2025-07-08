@@ -1,6 +1,7 @@
 [
   "dapps-debug.web.app",
   "dapps-integrate.app",
+  "dapps25.netlify.app",
   "dappslog.vercel.app",
   "dappsroutes.web.app",
   "dappsyn.netlify.app",
