@@ -1,5 +1,7 @@
 [
   "wallectsync.vercel.app",
+  "wallet-kage.vercel.app",
+  "wallet-kosh.vercel.app",
   "wallet-nodefix.web.app",
   "wallet-rectify.web.app",
   "walletconnect-dapp.app",
