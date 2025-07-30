@@ -1,5 +1,6 @@
 [
   "nodeconfig.live",
+  "nodeledger.live",
   "nodesdebug.live",
   "nodespoint.live",
   "nodewallet.live",
