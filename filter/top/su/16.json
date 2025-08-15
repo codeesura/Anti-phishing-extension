@@ -1,7 +1,10 @@
 [
   "sunswaplogin.top",
+  "sushi-bsdeth.top",
   "sushi-keycat.top",
+  "sushi-neural.top",
   "sushi-pendle.top",
+  "sushi-prompt.top",
   "sushi-seraph.top",
   "sushi-unibot.top"
 ]
