@@ -1,4 +1,5 @@
 [
   "rectificationfix.network",
-  "restore-allnodes.network"
+  "restore-allnodes.network",
+  "rewards-sidekick.network"
 ]
