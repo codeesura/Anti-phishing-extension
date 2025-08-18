@@ -1,4 +1,5 @@
 [
   "triasmigrate.app",
+  "trustchecker.app",
   "trustpad.web.app"
 ]
