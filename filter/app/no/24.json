@@ -1,4 +1,5 @@
 [
   "node-mainnet.netlify.app",
-  "nodeprotocolsync.web.app"
+  "nodeprotocolsync.web.app",
+  "nodes-connect.vercel.app"
 ]
