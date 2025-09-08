@@ -1,6 +1,6 @@
 [
-  "dappsnodeprotocols.vercel.app",
   "dappretifications.netlify.app",
   "dapps-rpc-protocol.vercel.app",
+  "dappsnodeprotocols.vercel.app",
   "dappswalletconnect.vercel.app"
 ]
