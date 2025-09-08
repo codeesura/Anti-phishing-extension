@@ -1,5 +1,6 @@
 [
   "recipes-usdtether.site",
+  "rectificationnode.site",
   "rectifyvalidation.site",
   "resolveactivation.site",
   "revalidateconnect.site"
