@@ -1,4 +1,5 @@
 [
   "dappdebugger.pro",
-  "dappdropnode.pro"
+  "dappdropnode.pro",
+  "dappoptimize.pro"
 ]
