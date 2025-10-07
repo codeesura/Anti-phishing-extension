@@ -1,5 +1,6 @@
 [
   "aml-checks.app",
   "aml-crypto.app",
+  "aml-safety.app",
   "amltracker.app"
 ]
