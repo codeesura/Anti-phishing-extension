@@ -1,6 +1,7 @@
 [
   "redstone-reward.network",
   "register-axelar.network",
+  "register-canton.network",
   "register-hashai.network",
   "registers-manta.network",
   "registrar-manta.network",
