@@ -1,4 +1,6 @@
 [
   "vote.usualgov.app",
-  "voting-pendle.app"
+  "voting-pendle.app",
+  "voting-plasma.app",
+  "voting-puffer.app"
 ]

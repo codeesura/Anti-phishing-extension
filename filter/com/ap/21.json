@@ -15,9 +15,12 @@
   "app-eigenlayer-v2.com",
   "app-etherxfinanca.com",
   "app-ethpadnetwork.com",
+  "app-jumper-launch.com",
   "app-karak-network.com",
+  "app-kernel-dao-v1.com",
   "app-multichainsfi.com",
   "app-pancake-sw-v5.com",
+  "app-polymarket-v1.com",
   "app-servermainnet.com",
   "app-solvr-finance.com",
   "app-synscsrectify.com",
@@ -27,5 +30,6 @@
   "appextensionfixes.com",
   "appmainnetservers.com",
   "apprectifyconnect.com",
-  "apps-solvprotocol.com"
+  "apps-solvprotocol.com",
+  "appsyncdevconnect.com"
 ]
