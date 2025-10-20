@@ -7,5 +7,6 @@
   "registrar-manta.network",
   "restaking-manta.network",
   "restoreallnodes.network",
-  "revchainconnect.network"
+  "revchainconnect.network",
+  "reward-protocol.network"
 ]
