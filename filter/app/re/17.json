@@ -1,6 +1,7 @@
 [
   "rectification.app",
   "rectifymainet.app",
+  "register-orbt.app",
   "register-zeta.app",
   "rewards-fluid.app"
 ]
