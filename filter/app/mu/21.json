@@ -1,5 +1,6 @@
 [
   "multichain-nansen.app",
   "multichainconnect.app",
-  "multichainsclaims.app"
+  "multichainsclaims.app",
+  "multilivesync.web.app"
 ]

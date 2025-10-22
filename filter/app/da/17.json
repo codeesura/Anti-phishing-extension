@@ -4,5 +4,6 @@
   "dapp-sync.web.app",
   "dappauths.web.app",
   "dappconnector.app",
-  "dapps-connect.app"
+  "dapps-connect.app",
+  "dappsauth.web.app"
 ]
