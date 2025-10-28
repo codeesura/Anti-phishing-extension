@@ -1,5 +1,6 @@
 [
   "chainopera.app",
   "chainslink.app",
-  "checks-aml.app"
+  "checks-aml.app",
+  "checktrust.app"
 ]
