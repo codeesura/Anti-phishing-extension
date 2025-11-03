@@ -1,5 +1,6 @@
 [
   "chaindrop.app",
   "chainnetd.app",
-  "chainsync.app"
+  "chainsync.app",
+  "checkusdt.app"
 ]

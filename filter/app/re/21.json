@@ -4,7 +4,9 @@
   "register-summerfi.app",
   "rescue-ai.netlify.app",
   "revert-connect-v1.app",
+  "revert-connect-v2.app",
   "revert-connect-v3.app",
+  "revert-finance-v3.app",
   "rewards-chainlink.app",
   "rewards-velodrome.app"
 ]
