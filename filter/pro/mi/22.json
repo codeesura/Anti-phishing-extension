@@ -1,5 +1,6 @@
 [
   "migrate-captaininu.pro",
   "migrate-olympusdao.pro",
-  "migration-fegtoken.pro"
+  "migration-fegtoken.pro",
+  "migrationswissborg.pro"
 ]
