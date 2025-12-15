@@ -3,5 +3,6 @@
   "dapp-chain.web.app",
   "dappaccess.web.app",
   "dappfix.vercel.app",
+  "dappmirror.web.app",
   "dapponsync.web.app"
 ]
