@@ -1,4 +1,5 @@
 [
+  "chainsupports.web.app",
   "chainsync.netlify.app",
   "chargeback-bridge.app"
 ]
