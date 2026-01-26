@@ -1,5 +1,6 @@
 [
   "coinflux.cc",
   "coinloan.cc",
-  "coinshub.cc"
+  "coinshub.cc",
+  "cow-swap.cc"
 ]
