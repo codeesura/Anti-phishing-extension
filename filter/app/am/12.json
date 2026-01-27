@@ -1,5 +1,6 @@
 [
   "aml-info.app",
+  "aml-pure.app",
   "aml-scan.app",
   "aml-tron.app"
 ]
