@@ -28,5 +28,6 @@
   "dappssynchronize.pages.dev",
   "dappsyncrecovery.pages.dev",
   "dappwebresolvers.pages.dev",
-  "dashboardconnect.pages.dev"
+  "dashboardconnect.pages.dev",
+  "dashboards-tools.pages.dev"
 ]
